@@ -91,7 +91,7 @@ mod tests {
     }
 
     #[test]
-    #[should_panic(expected = "Guess value be less than or equal to 100")]
+    #[should_panic(expected = "Guess value must be between 1 and 100")]
     fn greater_than_100() {
         Guess::new(200);
     }
