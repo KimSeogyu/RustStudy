@@ -1,4 +1,3 @@
-
 /**
  * [해볼만한 과제]
  * 화씨와 섭씨를 상호 변환.
@@ -17,7 +16,6 @@ fn main() {
     const MAX_FEE: u32 = 100_000;
 
     println!("The MAX_FEE is: {}", MAX_FEE);
-
 
     let shadowed_x = 5;
     let shadowed_x = shadowed_x + 1;
