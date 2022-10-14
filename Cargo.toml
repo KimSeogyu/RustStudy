@@ -1,0 +1,14 @@
+[workspace]
+
+members = [
+    "adder",
+    "art",
+    "collection",
+    "funtional_programming",
+    "guessgame",
+    "my_crate",
+    "ownership",
+    "rsgrep",
+    "structure",
+    "variables"
+]
